@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: yellow;
+    background-color:green;
+}
+main{
+    height: 15rem;
+    width: 15rem;
+    border-radius: 50%;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main h1{
+    font-size: 30px;
+}
